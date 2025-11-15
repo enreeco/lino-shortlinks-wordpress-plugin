@@ -28,9 +28,18 @@ Includes backend redirects, UI countdown redirects, daily statistics, admin mana
 
 ## 🛠 Installation
 
-1. Download the plugin ZIP.
+1. Download the plugin ZIP (or create it using the build script - see below).
 2. Go to **WordPress Admin → Plugins → Add New → Upload Plugin**.
 3. Upload `wp-short-links.zip` and activate it.
+
+### Creating the ZIP file with the build script
+
+To create the plugin ZIP file from the source code:
+
+1. Navigate to the `build_script` directory.
+2. Install dependencies: `npm install`
+3. Run the build script: `npm run build`
+4. The ZIP file will be created in `build_script/release/` directory.
 
 ---
 

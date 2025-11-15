@@ -24,3 +24,4 @@ ui_test,https://www.wordpress.org,WordPress Test,Testing UI mode with countdown 
 backend_test,https://www.mozilla.org,Mozilla Test,Testing backend mode with direct redirect,backend,1,2024-02-07 14:00:00,2024-02-07 14:00:00
 special_chars,https://www.example.com/page?param=value&other=123,Special Characters Test,URL with query parameters and special characters,backend,1,2024-02-08 10:00:00,2024-02-08 10:00:00
 
+
