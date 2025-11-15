@@ -1,0 +1,26 @@
+slug,target_url,title,description,mode,is_active,created_at,updated_at
+google,https://www.google.com,Google Search,The world's most popular search engine,backend,1,2024-01-15 10:30:00,2024-01-15 10:30:00
+facebook,https://www.facebook.com,Facebook,Connect with friends and family,ui,1,2024-01-16 14:20:00,2024-01-16 14:20:00
+twitter,https://twitter.com,Twitter / X,Social media platform for real-time updates,backend,1,2024-01-17 09:15:00,2024-01-17 09:15:00
+github,https://github.com,GitHub,Code hosting platform for version control,ui,1,2024-01-18 11:45:00,2024-01-18 11:45:00
+youtube,https://www.youtube.com,YouTube,Watch and share videos online,backend,1,2024-01-19 16:00:00,2024-01-19 16:00:00
+linkedin,https://www.linkedin.com,LinkedIn,Professional networking platform,ui,1,2024-01-20 08:30:00,2024-01-20 08:30:00
+instagram,https://www.instagram.com,Instagram,Photo and video sharing social network,backend,1,2024-01-21 13:25:00,2024-01-21 13:25:00
+amazon,https://www.amazon.com,Amazon,Online shopping and cloud services,ui,1,2024-01-22 10:10:00,2024-01-22 10:10:00
+netflix,https://www.netflix.com,Netflix,Streaming entertainment service,backend,1,2024-01-23 19:40:00,2024-01-23 19:40:00
+reddit,https://www.reddit.com,Reddit,The front page of the internet,ui,1,2024-01-24 12:50:00,2024-01-24 12:50:00
+stackoverflow,https://stackoverflow.com,Stack Overflow,Programming Q&A community,backend,1,2024-01-25 15:20:00,2024-01-25 15:20:00
+wikipedia,https://www.wikipedia.org,Wikipedia,Free online encyclopedia,ui,1,2024-01-26 09:00:00,2024-01-26 09:00:00
+microsoft,https://www.microsoft.com,Microsoft,Technology company and software provider,backend,1,2024-01-27 11:30:00,2024-01-27 11:30:00
+apple,https://www.apple.com,Apple,Technology company and device manufacturer,ui,1,2024-01-28 14:15:00,2024-01-28 14:15:00
+spotify,https://www.spotify.com,Spotify,Music streaming platform,backend,1,2024-01-29 17:45:00,2024-01-29 17:45:00
+discord,https://discord.com,Discord,Communication platform for communities,ui,1,2024-01-30 10:20:00,2024-01-30 10:20:00
+twitch,https://www.twitch.tv,Twitch,Live streaming platform for gamers,backend,1,2024-02-01 20:10:00,2024-02-01 20:10:00
+pinterest,https://www.pinterest.com,Pinterest,Visual discovery and bookmarking platform,ui,1,2024-02-02 13:35:00,2024-02-02 13:35:00
+dropbox,https://www.dropbox.com,Dropbox,Cloud storage and file sharing,backend,1,2024-02-03 08:50:00,2024-02-03 08:50:00
+zoom,https://zoom.us,Zoom,Video conferencing and online meetings,ui,1,2024-02-04 16:25:00,2024-02-04 16:25:00
+inactive_test,https://www.example.com,Inactive Test Link,This link is inactive for testing purposes,backend,0,2024-02-05 09:00:00,2024-02-05 09:00:00
+ui_test,https://www.wordpress.org,WordPress Test,Testing UI mode with countdown page,ui,1,2024-02-06 11:00:00,2024-02-06 11:00:00
+backend_test,https://www.mozilla.org,Mozilla Test,Testing backend mode with direct redirect,backend,1,2024-02-07 14:00:00,2024-02-07 14:00:00
+special_chars,https://www.example.com/page?param=value&other=123,Special Characters Test,URL with query parameters and special characters,backend,1,2024-02-08 10:00:00,2024-02-08 10:00:00
+
